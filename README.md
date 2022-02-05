@@ -70,9 +70,6 @@
 <a href="https://www.linkedin.com/in/samueljamesforrest/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
 </a>
-<a href="https://github.com/SamuelJForrest" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" />
-</a>
 <a href="https://gitlab.com/Samoftheforrest" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" />
 </a>
