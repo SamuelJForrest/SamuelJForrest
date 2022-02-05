@@ -80,7 +80,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40" />
 </a>
 
-<br />
+###
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelJForrest&show_icons=true&theme=tokyonight)
 
