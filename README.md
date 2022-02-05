@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://twitter.com/samueljforrest" target="blank"><img src="https://img.shields.io/twitter/follow/samueljforrest?logo=twitter&style=for-the-badge" alt="samuel j forrest" /></a> </p>
 
-- <img src="img/welsh-flag-emoji.png" width=14> Self-taught developer form South Wales, UK
+- <img src="img/welsh-flag-emoji.png" width=14> Self-taught developer from South Wales, UK
 - 🐶 Graduate frontend developer at [Spindogs](https://www.spindogs.co.uk/)
 - ⭕ Full-stack student with [Code Institute](https://codeinstitute.net/)
 - 📝 Intermittent article writer on [samueljamesforrest.hashnode.dev/](https://samueljamesforrest.hashnode.dev/)
-- 🌍 You can find many of my projects on [my portfolio](https://www.samueljamesforrest.com)
+- 🌍 You can find my projects on [my portfolio page](https://www.samueljamesforrest.com)
 - 👨‍🏫 Former primary school teacher.
 - 🚀 Space lover.
 - ⚡ Fun fact: I can play six different musical instruments.
