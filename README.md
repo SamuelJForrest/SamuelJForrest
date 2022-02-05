@@ -11,8 +11,6 @@
 - 🚀 Space lover.
 - ⚡ Fun fact: I can play six different musical instruments.
 
-<br />
-
 ## Technologies
 
 ### Current
