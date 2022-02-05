@@ -13,7 +13,7 @@
 
 ## Technologies
 
-### Current
+### Current:
 
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="hmtl5" width="40" height="40" />
@@ -46,7 +46,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" />
 </span>
 
-### Next Steps
+### Next Steps:
 
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
