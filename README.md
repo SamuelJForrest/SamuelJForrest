@@ -5,7 +5,7 @@
 - <img src="img/welsh-flag-emoji.png" width=14> Self-taught developer from South Wales, UK
 - 🐶 Frontend developer at [Spindogs](https://www.spindogs.co.uk/)
 - ⭕ Full-stack student with [Code Institute](https://codeinstitute.net/)
-- 🌍 You can also find [here](https://www.samueljamesforrest.com)
+- 🌍 You can also find me [here](https://www.samueljamesforrest.com)
 - 👨‍🏫 Former primary school teacher.
 - ⚡ Fun fact: I can play six different musical instruments.
 
@@ -36,6 +36,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
 </span>
 <span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="next js" width="40" height="40" />
+</span>
+<span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40" />
 </span>
 <span>
@@ -49,7 +52,10 @@
 </span>
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-</span>   
+</span>
+<span>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
+</span>  
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="postgresql" width="40" height="40" />
 </span>    
