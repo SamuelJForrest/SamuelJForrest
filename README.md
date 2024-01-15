@@ -3,12 +3,10 @@
 <p align="left"> <a href="https://twitter.com/samueljforrest" target="blank"><img src="https://img.shields.io/twitter/follow/samueljforrest?logo=twitter&style=for-the-badge" alt="samuel j forrest" /></a> </p>
 
 - <img src="img/welsh-flag-emoji.png" width=14> Self-taught developer from South Wales, UK
-- 🐶 Junior frontend developer at [Spindogs](https://www.spindogs.co.uk/)
+- 🐶 Frontend developer at [Spindogs](https://www.spindogs.co.uk/)
 - ⭕ Full-stack student with [Code Institute](https://codeinstitute.net/)
-- 📝 Intermittent article writer on [samueljamesforrest.hashnode.dev/](https://samueljamesforrest.hashnode.dev/)
-- 🌍 You can find my projects on [my portfolio page](https://www.samueljamesforrest.com)
+- 🌍 You can also find [here](https://www.samueljamesforrest.com)
 - 👨‍🏫 Former primary school teacher.
-- 🚀 Space lover.
 - ⚡ Fun fact: I can play six different musical instruments.
 
 ## Languages and Technologies
@@ -38,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
 </span>
 <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c sharp" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c sharp" width="40" height="40" />
 </span>
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
