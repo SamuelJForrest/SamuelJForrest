@@ -22,10 +22,7 @@
 </span>    
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40" />
-</span>    
-<span>
-    <img src="http://materializecss.com/res/materialize.svg" alt="bootstrap" width="40" height="40" />
-</span>    
+</span>  
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </span>    
