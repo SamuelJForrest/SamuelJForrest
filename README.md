@@ -2,12 +2,12 @@
 
 <p align="left"> <a href="https://twitter.com/samueljforrest" target="blank"><img src="https://img.shields.io/twitter/follow/samueljforrest?logo=twitter&style=for-the-badge" alt="samuel j forrest" /></a> </p>
 
-- <img src="img/welsh-flag-emoji.png" width=14> South Wales, UK
-- 🐶 Frontend developer at [Spindogs](https://www.spindogs.co.uk/)
-- ⭕ Full-stack graduate of [Code Institute](https://codeinstitute.net/)
-- 🌍 You can also find me [here](https://www.samueljamesforrest.com)
-- 👨‍🏫 Former primary school teacher.
-- ⚡ Fun fact: I can play six different musical instruments.
+-   <img src="img/welsh-flag-emoji.png" width=14> South Wales, UK
+-   🐶 Frontend developer at [Spindogs](https://www.spindogs.co.uk/)
+-   ⭕ Full-stack graduate of [Code Institute](https://codeinstitute.net/)
+-   🌍 You can also find me [here](https://www.samueljamesforrest.com)
+-   👨‍🏫 Former primary school teacher.
+-   ⚡ Fun fact: I can play six different musical instruments.
 
 ## Languages and Technologies
 
@@ -70,18 +70,8 @@
 
 ## Find Me Here
 
-<a href="https://twitter.com/samueljforrest" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="linkedin" width="40" height="40" />
-</a>
-<a href="https://www.linkedin.com/in/samueljamesforrest/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" />
-</a>
-<a href="https://gitlab.com/Samoftheforrest" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40" />
-</a>
-<a href="https://codepen.io/samueljforrest" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg" alt="codepen" width="40" height="40" />
-</a>
+-   [Twitter/X](https://twitter.com/samueljforrest)
+-   [LinkedIn](https://www.linkedin.com/in/samueljamesforrest/)
 
 ###
 
