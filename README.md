@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="djagno" width="40" height="40" />
 </span>
 <span>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" style="filter: brightness(0) invert(1) brightness(100%);" alt="flask" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
 </span>
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40" />
