@@ -1,11 +1,8 @@
 # Shwmae! I'm Sam 👋
 
-<p align="left"> <a href="https://twitter.com/samueljforrest" target="blank"><img src="https://img.shields.io/twitter/follow/samueljforrest?logo=twitter&style=for-the-badge" alt="samuel j forrest" /></a> </p>
-
 -   <img src="img/welsh-flag-emoji.png" width=14> South Wales, UK
 -   🐶 Frontend developer at [Spindogs](https://www.spindogs.co.uk/)
 -   ⭕ Full-stack graduate of [Code Institute](https://codeinstitute.net/)
--   🌍 You can also find me [here](https://www.samueljamesforrest.com)
 -   👨‍🏫 Former primary school teacher.
 -   ⚡ Fun fact: I can play six different musical instruments.
 
