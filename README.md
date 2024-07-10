@@ -42,7 +42,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40" />
 </span>
 <span>
-    <img src="https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80&format=webp" alt="Umbraco" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/dot-net/dot-net-original.svg" alt=".NET" width="40" height="40" />
+</span>
+<span>
+    <img src="https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80&format=webp" alt="umbraco" width="40" height="40" />
 </span>
 <span>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
