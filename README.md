@@ -79,7 +79,6 @@
 
 ## Find Me Here
 
--   [Twitter/X](https://twitter.com/samueljforrest)
 -   [LinkedIn](https://www.linkedin.com/in/samueljamesforrest/)
 
 ###
