@@ -1,7 +1,7 @@
 # Shwmae! I'm Sam 👋
 
 -   <img src="img/welsh-flag-emoji.png" width=14> South Wales, UK
--   🟠 Junior developer at [Gibe Digital]([https://www.spindogs.co.uk/](https://gibe.digital/))
+-   🟠 Junior developer at [Gibe Digital](https://gibe.digital/)
 -   ⭕ Full-stack graduate of [Code Institute](https://codeinstitute.net/)
 -   👨‍🏫 Former primary school teacher.
 -   ⚡ Fun fact: I can play six musical instruments.
